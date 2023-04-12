@@ -1,2 +1,2 @@
 # Anna Bulina
-Git and GitHub are cool!
+Git and GitHub are cool! Let's add some text!
