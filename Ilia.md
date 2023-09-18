@@ -1,2 +1,2 @@
 #Ilia Lis
-My first collaboration in Git
+My first collaboration in Git.
